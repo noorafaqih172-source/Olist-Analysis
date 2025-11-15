@@ -20,6 +20,9 @@ Olist is a Brazilian e-commerce platform currently using experience-based pricin
 
 5- Which states and categories rely most on installments?
 
+### Dashboard
+<img width="1439" height="866" alt="Screenshot 2025-11-15 at 6 06 25 PM" src="https://github.com/user-attachments/assets/e3706219-6bc3-4f42-b16f-557ec894c143" />
+
 ### Conclusion
 1- Installments dominate payment behavior.
 
@@ -45,7 +48,7 @@ Olist is a Brazilian e-commerce platform currently using experience-based pricin
 ## Dataset
 Datasource: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-#### How To Run
+### How To Run
 1- Download the ZIP files
 
 2- Download The CSV files
@@ -56,5 +59,6 @@ Datasource: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 5- Run the Code cell by cell
 
-#### Dependencies
+### Dependencies
 Python, Tableau
+
