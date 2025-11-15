@@ -1,7 +1,7 @@
-# Olist Analysis 2016 - 2018
+## Olist Analysis 2016 - 2018
 
 ### Project Overview
-This project investigate Olist company pricing strategy in Brazil between 2020 until 2024
+This project investigate Olist company pricing strategy in Brazil between 20216 until 2018
 
 ### Introduction
 Olist is one of Brazil’s leading e-commerce ecosystem companies, connecting small and medium-sized sellers with major online marketplaces. Through a scalable B2B model, Olist enables merchants to list, manage, and sell their products online without needing a physical storefront. Customers browse, order, and pay through digital platforms, while sellers benefit from streamlined workflows, logistics integrations, and tools that improve operational efficiency.
