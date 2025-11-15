@@ -66,7 +66,10 @@ Python, Tableau
 https://trello.com/invite/b/6912defe48a60a19af0b0574/ATTIe7c32327ad5e06a535c68b652237ea69B64034B7/data-sprint
 
 ### Refrences
+Inflation:
 https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BR
-
+Brazil Demographic:
+https://agenciabrasil.ebc.com.br/en/direitos-humanos/noticia/2023-10/brazil-has-more-women-men-2022-census-reports
+https://agenciadenoticias.ibge.gov.br/en/agencia-press-room/2185-news-agency/releases-en/19005-continuous-pnad-2016-51-of-the-brazilian-population-aged-25-or-over-had-only-complete-primary-education?utm_source=chatgpt.com
 
 
