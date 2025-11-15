@@ -1,6 +1,6 @@
-## Olist Analysis 2016 - 2018
+# Olist Analysis 2016 - 2018
 
-### Project Overview
+## Project Overview
 This project investigate Olist company pricing strategy in Brazil between 2016 until 2018
 
 ### Introduction
@@ -42,8 +42,19 @@ Olist is a Brazilian e-commerce platform currently using experience-based pricin
 
 6- Personalize Vouchers and Pricing by Region/Segment.
 
-#### Dataset
+## Dataset
 Datasource: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+#### How To Run
+1- Download the ZIP files
+
+2- Download The CSV files
+
+3- Open Juypter Notebook
+
+4- Install required libraries (Pandas, Numpy)
+
+5- Run the Code cell by cell
 
 #### Dependencies
 Python, Tableau
