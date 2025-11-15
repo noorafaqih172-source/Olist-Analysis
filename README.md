@@ -65,4 +65,8 @@ Python, Tableau
 ### Trello
 https://trello.com/invite/b/6912defe48a60a19af0b0574/ATTIe7c32327ad5e06a535c68b652237ea69B64034B7/data-sprint
 
+### Refrences
+https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BR
+
+
 
